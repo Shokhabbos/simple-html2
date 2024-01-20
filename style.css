@@ -1,3 +1,10 @@
-.title{
-    color: red;
+.title {
+  color: red;
+}
+.footer__title {
+  background-color: blueviolet;
+}
+
+.title {
+  color: lightgreen;
 }
